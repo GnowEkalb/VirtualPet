@@ -38,7 +38,7 @@ void draw(){
   //hands
 
   fill(#B9B9B9);
-  circle(500,750,20);
+  ellipse(500,750,20,20);
   //leg gap  
 
   fill(#CE3030);
@@ -50,7 +50,7 @@ void draw(){
   ellipse(600,400,50,50);
   //mouth
 
-  fill(0,0,0);
+  fill(#E3E3E3);
   ellipse(375,175,50,50);
   ellipse(625,175,50,50);
   //eyes
@@ -59,7 +59,7 @@ void draw(){
   ellipse(385,165,15,15);
   ellipse(635,165,15,15);
   
-  fill(255,255,255);
+  fill(#FCFCFC);
   triangle(400,225,455,225,425,260);
   triangle(445,225,505,225,475,260);
   triangle(495,225,555,225,525,260);
