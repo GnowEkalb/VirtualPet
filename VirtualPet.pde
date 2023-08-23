@@ -50,12 +50,12 @@ void draw(){
   ellipse(600,400,50,50);
   //mouth
 
-  fill(#E3E3E3);
+  fill(#0,0,0);
   ellipse(375,175,50,50);
   ellipse(625,175,50,50);
   //eyes
 
-  fill(250,250,250);
+  fill(E3E3E3);
   ellipse(385,165,15,15);
   ellipse(635,165,15,15);
   
