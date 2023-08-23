@@ -55,7 +55,7 @@ void draw(){
   ellipse(625,175,50,50);
   //eyes
 
-  fill(#E3E3E3);
+  fill(250,250,250);
   ellipse(385,165,15,15);
   ellipse(635,165,15,15);
   
