@@ -6,9 +6,6 @@ void setup(){
 void draw(){
   background(#B9B9B9);
 
-  int x = mouseX;
-  int y = mouseY;
-
   noStroke();
 
   fill(#430F15);
