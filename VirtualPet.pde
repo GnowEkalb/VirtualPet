@@ -10,8 +10,8 @@ void draw(){
   int y = mouseY;
 
   noStroke();
-  fill(#430F15);
 
+  fill(#430F15);
   rect(300,200,400,500);
   rect(350,200,300,550);
   rect(400,100,200,200);
